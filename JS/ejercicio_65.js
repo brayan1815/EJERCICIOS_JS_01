@@ -9,4 +9,5 @@ if(numero<0){
     }
 }
 
+array_num=array_num.reverse();
 alert(array_num);
